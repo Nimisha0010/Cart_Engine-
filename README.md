@@ -333,6 +333,3 @@ MIT License
 
 ---
 
-## Author
-
-Adaptive E-Commerce Cart Engine – Assignment Project demonstrating scalable cart architecture, tenant isolation, inventory consistency, and promotional pricing logic.
